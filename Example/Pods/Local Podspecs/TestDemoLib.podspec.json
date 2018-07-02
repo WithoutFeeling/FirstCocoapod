@@ -1,0 +1,22 @@
+{
+  "name": "TestDemoLib",
+  "version": "0.1.0",
+  "summary": "A short description of TestDemoLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yanghj/TestDemoLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yanghj": "1306670460@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yanghj/TestDemoLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestDemoLib/Classes/**/*"
+}

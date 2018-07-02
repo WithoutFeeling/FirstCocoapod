@@ -60,13 +60,13 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		76E73892C141EA6129AACDF0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		76E73892C141EA6129AACDF0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A12F3E9A052A17C7F3321F77 /* Pods-TestDemoLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestDemoLib_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestDemoLib_Example/Pods-TestDemoLib_Example.release.xcconfig"; sourceTree = "<group>"; };
-		B35EF68F73EDDC938C7A66BB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B35EF68F73EDDC938C7A66BB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		BAF1681AE6F4A1CCBCBA403D /* Pods_TestDemoLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestDemoLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB23A6DD865BDB32FD93C448 /* Pods-TestDemoLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestDemoLib_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestDemoLib_Tests/Pods-TestDemoLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		D2198AB95C949E9C2CD5F725 /* TestDemoLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TestDemoLib.podspec; path = ../TestDemoLib.podspec; sourceTree = "<group>"; };
+		D2198AB95C949E9C2CD5F725 /* TestDemoLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TestDemoLib.podspec; path = ../TestDemoLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
