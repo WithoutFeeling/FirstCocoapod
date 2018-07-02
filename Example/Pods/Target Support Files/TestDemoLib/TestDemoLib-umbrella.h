@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "Person.h"
+#import "Student.h"
 
 FOUNDATION_EXPORT double TestDemoLibVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestDemoLibVersionString[];
